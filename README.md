@@ -37,4 +37,4 @@ AutoService — проектирование информационной сис
 - Visual Paradigm (Community Edition / 30-дневный триал)
 - MDriven Designer — для лаб 3 (OCL) и 6
 - Microsoft Word — отчёт
-- html для создания макета сайта
+- html для создания макета сайта 
